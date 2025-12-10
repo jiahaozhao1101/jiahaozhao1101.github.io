@@ -87,4 +87,4 @@ Before entering academia, I worked in the business sector as a human resource pr
   This article analyses the human resource challenges facing Chinese agricultural enterprises and proposes strategies to improve recruitment, training, performance appraisal and reward systems in the context of rural transformation and labour mobility.
 
 
-{% include_relative _includes/contact.md %} 
+<!-- {% include_relative _includes/contact.md %}  -->
