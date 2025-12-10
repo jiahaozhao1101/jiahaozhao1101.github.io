@@ -8,25 +8,24 @@ layout: homepage
 
 <!-- I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). -->
 
-My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation.
+I recently completed my PhD at Loughborough University, where my research examined how State-regulated family planning policies –the three-child policy in China in my work– shape working women’s career experiences, fertility decisions and everyday life in internet communication and technology (ICT) sector. Drawing on qualitative approaches, my research speaks to broader debates in human resource management, social policy, gender and work, and the sociology of reproduction. 
+
+I am particularly interested in how macro-level events (e.g., public policy, cultural shifts, and social event) contribute to gender (in)equality by influencing organisations, family and individual’s experiences (e.g., right, belief, values, preference and choices). I am currently on the academic job market, seeking lecturer and postdoctoral positions or any other potential research project in areas related to sociology, gender and employment and public policy. **Feel free to reach out to me to explore any potential collaboration opportunities!**
 
 ## Research Interest
 
-- **Multi-physics Simulation:** Io-Matter Simulation(SRIM, SDTrimSP, RustBCA), Micromagnetic Simulation (MuMax3, OOMMF)
-- **Ion Irradiation/Implantation**
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Voltage Controlled Magnetism** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+- **Gender, work and organisation**
+- **Social policy, especially family planning/reproductive policy**
+- **Feminist and critical perspectives on careers**
+- **Masculinity and changing gender norms**
+- **Multi-level theory-based analysis**
+- **Race, migration, class and mobility**
+- **Human resource management**
 
 ## Education
-- **Ph.D. in Physics**, 2021 - 2024, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), France
-- **M.Sc. in Materials Science**, 2017 - 2021, [RWTH-Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1), Germany
-- **B.Sc. in Materials Science**, 2009 - 2013, [Nanjing Tech Univeristy](https://www.njtech.edu.cn/), China
-- **German Certificate**, 2011 - 2012, [Nanjing Univeristy](https://www.nju.edu.cn/), China
-- **Coursera Certificate**, 2024 - present, [Coursera](https://www.coursera.org/), Online
-  - [Business English](https://blog.songchen.science/documents/coursera/6B4CVLYK9ASD.pdf)
-  - [Google Project Management](https://blog.songchen.science/documents/coursera/GPM.pdf)
+- **PhD in Business and Management**, Loughborough University, UK, 2021-2025
+- **MA Human Resource and Consulting**, Lancaster University, UK, 2018-2019
+- **BSc Human Resource Management**, South China Agricultural University, China, 2014-2018
 
 ## Grants and Fellowships
 - **Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship**, 2020-2024, Early Stage Researcher (ESR), Grant Number: 864415
