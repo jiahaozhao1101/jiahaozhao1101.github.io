@@ -8,7 +8,7 @@ layout: homepage
 
 <!-- I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). -->
 
-I recently completed my PhD at Loughborough University, where my research examined how State-regulated family planning policies –the three-child policy in China in my work– shape working women’s career experiences, fertility decisions and everyday life in internet communication and technology (ICT) sector. Drawing on qualitative approaches, my research speaks to broader debates in human resource management, social policy, gender and work, and the sociology of reproduction. 
+I recently completed my PhD at [Loughborough University](https://www.lboro.ac.uk/), where my research examined how State-regulated family planning policies –the three-child policy in China in my work– shape working women's career experiences, fertility decisions and everyday life in internet communication and technology (ICT) sector. Drawing on qualitative approaches, my research speaks to broader debates in human resource management, social policy, gender and work, and the sociology of reproduction. 
 
 I am particularly interested in how macro-level events (e.g., public policy, cultural shifts, and social event) contribute to gender (in)equality by influencing organisations, family and individual’s experiences (e.g., right, belief, values, preference and choices). I am currently on the academic job market, seeking lecturer and postdoctoral positions or any other potential research project in areas related to sociology, gender and employment and public policy. **Feel free to reach out to me to explore any potential collaboration opportunities!**
 
@@ -23,13 +23,13 @@ I am particularly interested in how macro-level events (e.g., public policy, cul
 - **Human resource management**
 
 ## Education
-- **PhD in Business and Management**, Loughborough University, UK, 2021-2025
-- **MA Human Resource and Consulting**, Lancaster University, UK, 2018-2019
-- **BSc Human Resource Management**, South China Agricultural University, China, 2014-2018
+- **PhD in Business and Management**, [Loughborough University](https://www.lboro.ac.uk/), UK, 2021-2025
+- **MA Human Resource and Consulting**, [Lancaster University](https://www.lancaster.ac.uk/), UK, 2018-2019
+- **BSc Human Resource Management**, [South China Agricultural University](https://scau.edu.cn/), China, 2014-2018
 
 ## Teaching
 
-I have teaching experience as a seminar tutor and teaching assistant at Loughborough University, contributing to undergraduate and postgraduate modules in:
+I have teaching experience as a seminar tutor and teaching assistant at [Loughborough University](https://www.lboro.ac.uk/), contributing to undergraduate and postgraduate modules in:
 
 - **Human Resource Management**
 - **Qualitative Research Methods**
@@ -44,21 +44,21 @@ Before entering academia, I worked in the business sector as a human resource pr
 
 ## Funding
 
-- **£3600 – China Scholarship Council & Loughborough University Joint Doctoral Scholarship** (2021-2024)
+- **£3600 – China Scholarship Council & [Loughborough University](https://www.lboro.ac.uk/) Joint Doctoral Scholarship** (2021-2024)
 
-  Fully funded my PhD research at Loughborough University on my PhD work, covered the PhD tuition fees and provided a monthly stipend.
+  Fully funded my PhD research at [Loughborough University](https://www.lboro.ac.uk/) on my PhD work, covered the PhD tuition fees and provided a monthly stipend.
 
 - **£300 – Open Research Council (ORC) small grant** (2022)
 
   Supported the dissemination of my doctoral research and the promotion of open research practices.
 
-- **£4,000 – Lancaster University Merit Scholarship** (2019)
+- **£4,000 – [Lancaster University](https://www.lancaster.ac.uk/) Merit Scholarship** (2019)
 
-  Awarded for academic performance during my MA in Human Resource and Consulting at Lancaster University.
+  Awarded for academic performance during my MA in Human Resource and Consulting at [Lancaster University](https://www.lancaster.ac.uk/).
 
 - **Honorary award – Outstanding Student Cadre of Guangdong Province** (2017)
 
-  Provincial-level recognition for and student leadership during my undergraduate studies at South China Agricultural University.
+  Provincial-level recognition for and student leadership during my undergraduate studies at [South China Agricultural University](https://scau.edu.cn/).
 
 ## Publications
 
