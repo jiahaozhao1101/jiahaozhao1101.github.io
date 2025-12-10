@@ -85,6 +85,3 @@ Before entering academia, I worked in the business sector as a human resource pr
 - **Journal paper (in Mandarin): [农业企业人力资源现状与管理对策](https://www.researchgate.net/profile/Jiahao-Zhao-11/publication/358756210_Status_and_Countermeasures_of_Human_Resources_Management_in_Agricultural_Enterprises_nongyeqiyerenliziyuanxianzhuangyuguanliduice/links/621431de08bee946f395994f/Status-and-Countermeasures-of-Human-Resources-Management-in-Agricultural-Enterprises-nongyeqiyerenliziyuanxianzhuangyuguanliduice.pdf) [Status and countermeasures of human resources management in agricultural enterprises], *企业改革与管理* (Enterprise Reform and Management), 2017(5, Part 2).**
 
   This article analyses the human resource challenges facing Chinese agricultural enterprises and proposes strategies to improve recruitment, training, performance appraisal and reward systems in the context of rural transformation and labour mobility.
-
-
-<!-- {% include_relative _includes/contact.md %}  -->
