@@ -64,27 +64,27 @@ Before entering academia, I worked in the business sector as a human resource pr
 
 - **PhD thesis: [Analysis of Working Women's Perceptions of State-regulated Family Planning Policy: China as a Case Study](https://www.researchgate.net/publication/398493697_Analysis_of_working_women%27s_perceptions_of_state-regulated_family_planning_policy_China_as_a_case_study?channel=doi&linkId=693852469aa6b4649dbeac24&showFulltext=true) (December 2025)**
 
-This doctoral thesis examines how China's one-, two- and three-child policies shape working women's reproductive decisions and career trajectories, with a particular focus on the ICT sector and related male-dominated industries. Drawing on 44 in-depth semi-structured interviews and a social constructivist, multi-level (macro–meso–micro) framework. It identifies four overarching themes - reproductive autonomy and societal dynamics, socio-economic pressures, workplace environment and HR policy, and cultural expectations and gender equality - and develops an expanded conceptual model to understand policy–career linkages in contemporary China.
+  This doctoral thesis examines how China's one-, two- and three-child policies shape working women's reproductive decisions and career trajectories, with a particular focus on the ICT sector and related male-dominated industries. Drawing on 44 in-depth semi-structured interviews and a social constructivist, multi-level (macro–meso–micro) framework. It identifies four overarching themes - reproductive autonomy and societal dynamics, socio-economic pressures, workplace environment and HR policy, and cultural expectations and gender equality - and develops an expanded conceptual model to understand policy–career linkages in contemporary China.
 
 - **Journal paper: From the three-child policy to fertility rates: Analysing macro–micro–macro processes via the bathtub model **(in preparation).
 
-This paper uses Coleman's bathtub model to trace how China's three-child policy shapes women's lived experiences of motherhood, career and family life, and how these micro-level processes aggregate into persistent low fertility rates. It extends the original model by adding organisational and feedback pathways to better capture the dynamics of fertility policy and outcomes.
+  This paper uses Coleman's bathtub model to trace how China's three-child policy shapes women's lived experiences of motherhood, career and family life, and how these micro-level processes aggregate into persistent low fertility rates. It extends the original model by adding organisational and feedback pathways to better capture the dynamics of fertility policy and outcomes.
 
 - **Journal paper: "The more reproductive freedom, the more reproductive pressure": Perceived consequences of the three-child policy on women's careers in China, *Work, Employment and Society* (under peer review, August 2025).**
 
-Based on in-depth interviews with working women across urban China, this article identifies diverse perceptions of the three-child policy and shows how "greater reproductive freedom" can paradoxically intensify expectations that women shoulder care responsibilities, generating heightened career instability and uncertainty.
+  Based on in-depth interviews with working women across urban China, this article identifies diverse perceptions of the three-child policy and shows how "greater reproductive freedom" can paradoxically intensify expectations that women shoulder care responsibilities, generating heightened career instability and uncertainty.
 
 - **Conference paper: [Multi-level Influences on Women's Careers under China's Family Planning Policy — A Literature Review](https://www.researchgate.net/profile/Jiahao-Zhao-11/publication/395332709_Multi-level_Influences_on_Women's_Careers_under_China's_Family_Planning_Policy--A_Literature_Review/links/68bcc15d6fe8e57ec8e2f7de/Multi-level-Influences-on-Womens-Careers-under-Chinas-Family-Planning-Policy--A-Literature-Review.pdf), paper presented at the British Academy of Management (BAM) Annual Conference 2022, Manchester, UK.**
 
-This review maps how family planning policy shapes women's careers at macro (state), meso (organisation) and micro (family/individual) levels and calls for genuinely multi-level, context-sensitive analyses of Chinese women's career development under shifting fertility regimes.
+  This review maps how family planning policy shapes women's careers at macro (state), meso (organisation) and micro (family/individual) levels and calls for genuinely multi-level, context-sensitive analyses of Chinese women's career development under shifting fertility regimes.
 
 - **Journal paper: [Exploring the Direct and Indirect Effects of Emotional Leadership on Entrepreneurial Success of Start-ups in the Hospitality Sector (I) & (II)](https://www.researchgate.net/publication/354128586_Exploring_the_Direct_and_Indirect_Effects_of_Emotional_Leadership_on_Entrepreneurial_Success_of_Start-ups_in_the_Hospitality_Sector_I), *Asia-Pacific Journal of Humanities and Social Sciences*, 2019, 1(2), 001–039.**
 
-These companion papers conceptualise emotional leadership in hospitality start-ups via empathy, self-confidence and adaptability, and examine how these dimensions influence entrepreneurs' psychological states, employee relations and overall business performance.
+  These companion papers conceptualise emotional leadership in hospitality start-ups via empathy, self-confidence and adaptability, and examine how these dimensions influence entrepreneurs' psychological states, employee relations and overall business performance.
 
 - **Journal paper (in Mandarin): [农业企业人力资源现状与管理对策](https://www.researchgate.net/profile/Jiahao-Zhao-11/publication/358756210_Status_and_Countermeasures_of_Human_Resources_Management_in_Agricultural_Enterprises_nongyeqiyerenliziyuanxianzhuangyuguanliduice/links/621431de08bee946f395994f/Status-and-Countermeasures-of-Human-Resources-Management-in-Agricultural-Enterprises-nongyeqiyerenliziyuanxianzhuangyuguanliduice.pdf) [Status and countermeasures of human resources management in agricultural enterprises], *企业改革与管理* (Enterprise Reform and Management), 2017(5, Part 2).**
 
-This article analyses the human resource challenges facing Chinese agricultural enterprises and proposes strategies to improve recruitment, training, performance appraisal and reward systems in the context of rural transformation and labour mobility.
+  This article analyses the human resource challenges facing Chinese agricultural enterprises and proposes strategies to improve recruitment, training, performance appraisal and reward systems in the context of rural transformation and labour mobility.
 
 
 {% include_relative _includes/contact.md %} 
