@@ -94,5 +94,5 @@ Before entering academia, I worked in the business sector as a human resource pr
 
 - Open to invitations for guest talks, seminars and collaborative research on gender, work and social policy – feel free to contact me.
 
-<img src="./assets/img/upcoming.jpg" alt="Upcoming" style="width: 50%; display: block; margin: 0 auto;">
+<img src="./assets/img/upcoming.jpg" alt="Upcoming" style="width: 70%; display: block; margin: 0 auto;">
 
