@@ -31,8 +31,8 @@ main:
   - title: "Research Interest"
     url: ./#research-interest
 
-  - title: "Blogs"
-    url: ./blog/
+  # - title: "Blogs"
+  #   url: ./blog/
 
   - title: "Bio"
     url: ./#about-me
