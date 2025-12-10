@@ -66,7 +66,7 @@ Before entering academia, I worked in the business sector as a human resource pr
 
   This doctoral thesis examines how China's one-, two- and three-child policies shape working women's reproductive decisions and career trajectories, with a particular focus on the ICT sector and related male-dominated industries. Drawing on 44 in-depth semi-structured interviews and a social constructivist, multi-level (macro–meso–micro) framework. It identifies four overarching themes - reproductive autonomy and societal dynamics, socio-economic pressures, workplace environment and HR policy, and cultural expectations and gender equality - and develops an expanded conceptual model to understand policy–career linkages in contemporary China.
 
-- **Journal paper: From the three-child policy to fertility rates: Analysing macro–micro–macro processes via the bathtub model **(in preparation).
+- **Journal paper: From the three-child policy to fertility rates: Analysing macro–micro–macro processes via the bathtub model (in preparation).**
 
   This paper uses Coleman's bathtub model to trace how China's three-child policy shapes women's lived experiences of motherhood, career and family life, and how these micro-level processes aggregate into persistent low fertility rates. It extends the original model by adding organisational and feedback pathways to better capture the dynamics of fertility policy and outcomes.
 
