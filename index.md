@@ -88,11 +88,11 @@ Before entering academia, I worked in the business sector as a human resource pr
 
 ## Upcoming
 
-- **Preparing new publications based on my doctoral research.** Concurrently, my recent research interest has also focused on the impact of artificial intelligence on gender inequality (power, algorithms, and knowledge sharing), alongside topics including the shaping, construction, and (re)production of masculinity in public spaces, and the sociology of luck.
+- Preparing new publications based on my doctoral research. Concurrently, my recent research interest has also focused on the impact of artificial intelligence on gender inequality (power, algorithms, and knowledge sharing), alongside topics including the shaping, construction, and (re)production of masculinity in public spaces, and the sociology of luck.
 
-- **Exploring opportunities to join interdisciplinary projects** on gender (in)equality, social policy, critical feminism, masculinity construction and boarder relevant topic of sociology.
+- Exploring opportunities to join interdisciplinary projects on gender (in)equality, social policy, critical feminism, masculinity construction and boarder relevant topic of sociology.
 
-- **Open to invitations for guest talks, seminars and collaborative research** on gender, work and social policy – feel free to contact me.
+- Open to invitations for guest talks, seminars and collaborative research on gender, work and social policy – feel free to contact me.
 
 <img src="./assets/img/upcoming.jpg" alt="Upcoming" style="width: 50%;">
 
