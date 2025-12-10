@@ -1,7 +1,7 @@
 main:
 
-  - title: "Contact"
-    url: ./#contact 
+  - title: "Upcoming"
+    url: ./#upcoming 
     right: true 
 
   # - title: "Conferences & Events"
