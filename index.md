@@ -86,16 +86,5 @@ These companion papers conceptualise emotional leadership in hospitality start-u
 
 This article analyses the human resource challenges facing Chinese agricultural enterprises and proposes strategies to improve recruitment, training, performance appraisal and reward systems in the context of rural transformation and labour mobility.
 
-<!-- ## Certificates
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="343635de-7d0f-43ea-922d-432566a4b1e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-{% include_relative _includes/news.md %}
-
-{% include_relative _includes/projects.md %} 
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/conference.md %} -->
 
 {% include_relative _includes/contact.md %} 
