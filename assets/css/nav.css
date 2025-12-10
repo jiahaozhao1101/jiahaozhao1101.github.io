@@ -10,6 +10,7 @@
 
   .topnav #myLinks {
     display: inline;
+    white-space: nowrap;
   }
 
 .topnav a.icon {
@@ -30,6 +31,7 @@
     padding: 10px 9px;
     text-decoration: none;
     font-size: 17px;
+    white-space: nowrap;
   }
   
   /* Change the color of links on hover */
@@ -111,6 +113,23 @@
       }
     .topnav a.right {
         margin-right:22%;
+      }
+
+   }
+
+   /* Large screens (4K and above) */
+   @media print, screen and (min-width: 2001px) { 
+
+    .topnav img {
+        margin-left:25%;
+      }
+    .topnav a.right {
+        margin-right:25%;
+      }
+    .topnav a.normal {
+        padding: 10px 8px;
+        font-size: 16px;
+        white-space: nowrap;
       }
 
    }
