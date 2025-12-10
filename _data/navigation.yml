@@ -16,14 +16,14 @@ main:
   # - title: "News"
   #   url: ./#news
 
-  - title: "Funding and Scholarships"
-    url: ./#funding-and-scholarships
+  - title: "Funding"
+    url: ./#funding
 
-  - title: "Professional Experience"
-    url: ./#professional-experience
+  - title: "Experience"
+    url: ./#experience
 
-  - title: "Teaching and Academic Experience"
-    url: ./#teaching-and-academic-experience
+  - title: "Teaching"
+    url: ./#teaching
 
   - title: "Education"
     url: ./#education

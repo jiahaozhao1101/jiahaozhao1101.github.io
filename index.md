@@ -27,7 +27,7 @@ I am particularly interested in how macro-level events (e.g., public policy, cul
 - **MA Human Resource and Consulting**, Lancaster University, UK, 2018-2019
 - **BSc Human Resource Management**, South China Agricultural University, China, 2014-2018
 
-## Teaching and Academic Experience
+## Teaching
 
 I have teaching experience as a seminar tutor and teaching assistant at Loughborough University, contributing to undergraduate and postgraduate modules in:
 
@@ -38,11 +38,11 @@ I have teaching experience as a seminar tutor and teaching assistant at Loughbor
 
 In these roles I have facilitated seminar discussions, supported students' coursework and research projects, and gained extensive experience in qualitative research design and supervision.
 
-## Professional Experience
+## Experience
 
 Before entering academia, I worked in the business sector as a human resource professional. I served as an HR intern at DJI, a drone company, and as a management trainee at Costa. These work experiences have provided me with a solid foundation for understanding the tangible impacts of business environments and public policy, while also offering valuable insights for exploring intersecting topics such as gender, policy, work, and organisational dynamics.
 
-## Funding and Scholarships
+## Funding
 
 - **£3600 – China Scholarship Council & Loughborough University Joint Doctoral Scholarship** (2021-2024)
 
