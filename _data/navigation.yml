@@ -4,17 +4,32 @@ main:
     url: ./#contact 
     right: true 
 
-  - title: "Conferences & Events"
-    url: ./#conferences
+  # - title: "Conferences & Events"
+  #   url: ./#conferences
 
   - title: "Publications"
     url: ./#publications
 
-  - title: "Projects"
-    url: ./#projects
+  # - title: "Projects"
+  #   url: ./#projects
 
-  - title: "News"
-    url: ./#news
+  # - title: "News"
+  #   url: ./#news
+
+  - title: "Funding and Scholarships"
+    url: ./#funding-and-scholarships
+
+  - title: "Professional Experience"
+    url: ./#professional-experience
+
+  - title: "Teaching and Academic Experience"
+    url: ./#teaching-and-academic-experience
+
+  - title: "Education"
+    url: ./#education
+
+  - title: "Research Interest"
+    url: ./#research-interest
 
   - title: "Blogs"
     url: ./blog/

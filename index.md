@@ -27,23 +27,49 @@ I am particularly interested in how macro-level events (e.g., public policy, cul
 - **MA Human Resource and Consulting**, Lancaster University, UK, 2018-2019
 - **BSc Human Resource Management**, South China Agricultural University, China, 2014-2018
 
-## Grants and Fellowships
-- **Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship**, 2020-2024, Early Stage Researcher (ESR), Grant Number: 864415
+## Teaching and Academic Experience
 
-## Professional Affiliations
-- **Marie Curie Alumni Association Member**, 2021 - Present
-- **The European Magnetism Association (EMA) Member**, 2021 - Present
+I have teaching experience as a seminar tutor and teaching assistant at Loughborough University, contributing to undergraduate and postgraduate modules in:
 
-## Certificates
+- **Human Resource Management**
+- **Qualitative Research Methods**
+- **Career Planning**
+- **Corporate Social Responsibility** (exam marking)
+
+In these roles I have facilitated seminar discussions, supported students' coursework and research projects, and gained extensive experience in qualitative research design and supervision.
+
+## Professional Experience
+
+Before entering academia, I worked in the business sector as a human resource professional. I served as an HR intern at DJI, a drone company, and as a management trainee at Costa. These work experiences have provided me with a solid foundation for understanding the tangible impacts of business environments and public policy, while also offering valuable insights for exploring intersecting topics such as gender, policy, work, and organisational dynamics.
+
+## Funding and Scholarships
+
+- **£3600 – China Scholarship Council & Loughborough University Joint Doctoral Scholarship** (2021-2024)
+
+  Fully funded my PhD research at Loughborough University on my PhD work, covered the PhD tuition fees and provided a monthly stipend.
+
+- **£300 – Open Research Council (ORC) small grant** (2022)
+
+  Supported the dissemination of my doctoral research and the promotion of open research practices.
+
+- **£4,000 – Lancaster University Merit Scholarship** (2019)
+
+  Awarded for academic performance during my MA in Human Resource and Consulting at Lancaster University.
+
+- **Honorary award – Outstanding Student Cadre of Guangdong Province** (2017)
+
+  Provincial-level recognition for and student leadership during my undergraduate studies at South China Agricultural University.
+
+<!-- ## Certificates
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="343635de-7d0f-43ea-922d-432566a4b1e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-{% include_relative _includes/news.md %}
+{% include_relative _includes/news.md %} -->
 
-{% include_relative _includes/projects.md %}
+<!-- {% include_relative _includes/projects.md %} -->
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/conference.md %}
+<!-- {% include_relative _includes/conference.md %} -->
 
-{% include_relative _includes/contact.md %}
+{% include_relative _includes/contact.md %} 
