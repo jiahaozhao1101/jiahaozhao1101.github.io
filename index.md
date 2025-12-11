@@ -44,7 +44,7 @@ Before entering academia, I worked in the business sector as a human resource pr
 
 ## Funding
 
-- **£3600 – China Scholarship Council & [Loughborough University](https://www.lboro.ac.uk/) Joint Doctoral Scholarship** (2021-2024)
+- **£28800 – China Scholarship Council & [Loughborough University](https://www.lboro.ac.uk/) Joint Doctoral Scholarship** (2022-2024)
 
   Fully funded my PhD research at [Loughborough University](https://www.lboro.ac.uk/) on my PhD work, covered the PhD tuition fees and provided a monthly stipend.
 
